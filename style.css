@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+}
+table{
+    width: 100%;
+    margin-left: 25px;
+}
+img{
+    width:300px;
+    height: 250px;
+}
+td{
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    color: bisque;
+}
+p{
+    font-size: 60px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: italic;
+    color: yellow;
+    text-align: center;
+}
+button{
+    color:black;
+    background-color: aquamarine;
+    width: 100px;
+    height: 60px;
+    font-size: 25px;
+}
